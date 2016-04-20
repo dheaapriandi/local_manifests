@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="device/Xiaomi/HM2014011" name="ferhung-mtk/android_device_Xiaomi_HM2014011" revision="cm-13.0" />
-  <project path="vendor/Xiaomi/HM2014011" name="ferhung-mtk/android_vendor_Xiaomi_HM2014011" revision="cm-13.0" />
+  <project path="device/Evercoss/A66A" name="dheaapriandi/android_device_Evercoss_A66A" revision="cm-13.0" />
+  <project path="vendor/Evercoss/A66A" name="dheaapriandi/android_vendor_Evercoss_A66A" revision="cm-13.0" />
 
   <remove-project name="platform/frameworks/testing" />
 
